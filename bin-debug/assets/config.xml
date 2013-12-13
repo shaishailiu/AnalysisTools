@@ -1,0 +1,16 @@
+<config>
+
+	<scene id='0' data='st1_forest_01' map='forest09'/>
+	<scene id='1' data='st1_forest02' map='forest08'/>
+	<scene id='2' data='st1_forest03' map='forest07'/>
+	<scene id='3' data='st1_forest04' map='forest06'/>
+	<scene id='4' data='st1_forest05' map='forest05'/>
+	<scene id='5' data='st1_forest06' map='forest01'/>
+	<scene id='6' data='st1_forest07' map='forest03'/>
+	<scene id='7' data='st1_forest08' map='forest04'/>
+	<scene id='8' data='st1_forest09' map='forest02'/>
+	
+
+	
+
+</config>
